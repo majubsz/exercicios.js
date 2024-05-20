@@ -30,5 +30,5 @@ if(numero== 6) {
 }
 
 if(numero== 7) {
-    console.log("domingp")
+    console.log("domingo")
 }
